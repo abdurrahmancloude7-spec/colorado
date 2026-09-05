@@ -1,0 +1,6 @@
+{
+  "name": "Colorado Kitchen",
+  "description": "Colorado Kitchen in E-11/4 Islamabad offers freshly prepared comfort food, quality ingredients, and a warm dining experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
